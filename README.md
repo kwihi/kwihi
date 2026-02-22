@@ -1,41 +1,25 @@
+# 👋🏼 I'm Dyllan [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyllan-rampersaud-180552397/) 
+I am currently studying at Fontys University of Applied Sciences. I’m passionate about cybersecurity, cloud, networking, and embedded systems, and previously worked as a Junior Information Security Officer at a central bank, gaining over a year of experience protecting critical infrastructure. Outside of tech, I’m a kickboxer and a curiosity-driven aspiring polymath.
 
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6a533f,100:b79a7b&height=160&text=Dyllan+Rampersaud&fontColor=f5e9d6&fontSize=50&font=Fira%20Code&animation=fadeIn" />
-</p>
+## 📚 Currently Learning
+- 🦀 Malware development as a hobby (Rust)
+- 👾 Game development (school project)
+- 🐋 Docker - Kubernetes - Terraform and Ansible
 
-<!-- Subheader (tech typing animation) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=F0E6D2FF&center=true&vCenter=true&width=650&lines=ICT+Student+%7C+Defender+@+Heart;" />
-</p>
+# 💻 Tech Stack:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-<!-- Divider (Roman cyberpunk bronze) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b08d57,40:c9b27d,70:8a6f42,100:6e4b2a&height=2" />
 </p>
 
-## 🧭 About Me
-Started my studies at Fontys University after graduating from Colegio EPI in Aruba. Interested in cybersecurity, cloud, networking, and parts of embedded systems. Former Junior Information Security Officer with over a year of experience at a Central Bank. Kickboxer and aspiring polymath with a curiosity‑driven approach to learning.
-
-## 🛠️ Skills & Tools
-
-| **Category**      | **Skills & Technologies**                                   |
-|-------------------|--------------------------------------------------------------|
-| **Programming**   | Python • Kubernetes • Docker                                 |
-| **Cloud**         | Azure • Entra • M365 (Same-Same, But different)                                       |
-| **Security**      | Digital Forensics • Incident Response • Detection Engineering • System Hardening |
-| **Interests**     | Cybersecurity • Cloud • Networking • Embedded Systems        |
-
-## 📚 Currently Learning
-- Malware development (Rust)  
-- Game development (school project)
 ```text
                ______
               '-._   ```"""---.._
            ,-----.:___           `\  ,;;;,
             '-.._     ```"""--.._  |,%%%%%%              _
             ,    '.              `\;;;;  -\      _    _.'/\  xxxxxx          xxx
-          .' `-.__ \            ,;;;;" .__{=====/_)==:_  ||  xxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          .' `-.__ \            ,;;;;" .__{=====/_)==:_  ||  xxxxxxxxxxxxxxxxxxxx      xxxxxxxxx
      ,===/        ```";,,,,,,,;;;;;'`-./.____,'/ /     '.\/  xxxxxxxx     xxxxx
     '---/              ';;;;;;;;'      `--.._.' /
    ,===/                          '-.        `\/
@@ -45,7 +29,6 @@ jgs  \______,,.....------'''``          `---`
 
 
 ``` 
-<!-- Divider (Roman cyberpunk bronze) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b08d57,40:c9b27d,70:8a6f42,100:6e4b2a&height=2" />
 </p>
